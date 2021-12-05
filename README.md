@@ -2,7 +2,7 @@
 
 # QR code 
 https://replit.com/@RavinduManoj/Queen-Sew-QR-Code
-**ඉහත link එකෙන් ගොස් bot සාදා ගත යුතු දුරකතනයෙන් ඒ එන qr එක scan කරන්න **
+(**ඉහත link එකෙන් ගොස් bot සාදා ගත යුතු දුරකතනයෙන් ඒ එන qr එක scan කරන්න **)
 
 # bot developmant _heroku_
 https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FSew01RaviduManoj01KingAndQueen%2FQueenSew1&template=https%3A%2F%2Fgithub.com%2FSewRavindu01ManojKing%2FQueenSew
