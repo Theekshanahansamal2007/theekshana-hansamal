@@ -1,4 +1,4 @@
- <table></th><th>Theekshana hansaml</th></tr><tr><td><a href="https://github.com/Theekshanahansamal2007/theekshanait"><img src="https://i.ibb.co/vJ8x3gy/Snapchat-740802245.jpg" width="160" alt="Theekshana Hansamal"<table></th><th>
+ <table></th><th>Theek<table><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/1JPW0RG/Snapchat-1206413278.jpg" width="190" alt="Theekshana Hansamal"><a href="https://github.com/Theekshanahansamal2007/theekshana-hansamal.git"><img src="https://i.ibb.co/GWnzNFX/Snapchat-1585153826.jpg" width="190" alt="Theekshana Hansamal">
 
 
 
